@@ -41,7 +41,7 @@ app:
       roleArn: arn:aws:iam::439159788015:role/IBMAppFlowCloudWatchRole-20231115-1531-5841-1006-ad7b86463579
       logGroup: /ibm/appflow/loggroup-20231115-1531-5841-1006-ad7b86463579
       region: us-east-1
-  version: "13fba3b2-5c0a-4f62-abb1-0c8448bd5536"
+  version: "6a5ba2cd-75be-4b10-8102-b49b0cc661cb"
 # probes
 # dynamic scaling
 # scaling to 0
